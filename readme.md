@@ -43,8 +43,8 @@ Temel modeldeki zayıflıkları gidermek için özellik çıkarım (feature extr
 
 Temel modelin (YOLOv8n) ve iyileştirilmiş modelin (YOLOv8s) daha önce hiç görmediği **Test Seti** üzerinde elde ettiği sonuçlar karşılaştırmalı olarak aşağıda raporlanmıştır:
 
-| Metrik                   | Baseline Model (YOLOv8n - Test Seti) | İyileştirilmiş Model (YOLOv8s - Test Seti) | Durum |
-| :----------------------- | :----------------------------------- | :----------------------------------------- | :---- |
+| Metrik                   | Baseline Model (YOLOv8n - Test Seti) | İyileştirilmiş Model (YOLOv8s - Test Seti) | 
+| :----------------------- | :----------------------------------- | :----------------------------------------- | 
 | **Precision (Kesinlik)** | 0.851                                | **0.867**                                  |
 | **Recall (Duyarlılık)**  | 0.430                                | **0.664**                                  |
 | **mAP@0.5**              | 0.445                                | **0.713**                                  |
