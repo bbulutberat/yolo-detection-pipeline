@@ -8,9 +8,9 @@ def main():
     
     db_password = os.getenv("DB_PASSWORD")
 
-    BEST_MODEL_PATH = r"MODEL_PATH"
+    BEST_MODEL_PATH = "MODEL_PATH"
     
-    TEST_IMAGES_DIR = r"TEST_IMAGES_DIR"
+    TEST_IMAGES_DIR = "TEST_IMAGES_DIR"
     
     db = DBManager(db_name="postgres", user="postgres", password=db_password, host="localhost")
     db.connect()
