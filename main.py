@@ -5,7 +5,7 @@ from src.evaluator import YoloEvaluator
 
 def main():
     # Veri setinin tam yolu
-    DATA_YAML_PATH = r"DATA_YAML_PATH" 
+    DATA_YAML_PATH = "DATA_YAML_PATH" 
     
     handler = DataHandler(DATA_YAML_PATH)
     handler.analyze_dataset()
