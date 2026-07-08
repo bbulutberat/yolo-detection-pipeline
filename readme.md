@@ -1,4 +1,4 @@
-# Uçtan Uca YOLO Nesne Tespiti ve Veritabanı Raporlama Sistemi
+# YOLO Nesne Tespiti ve Veritabanı Raporlama Sistemi
 
 Bu proje, derin öğrenme tabanlı bilgisayarlı görü algoritmalarını ve ilişkisel veritabanı yönetim sistemlerini bir araya getiren bir nesne tespiti ve raporlama sistemidir. Çalışma kapsamında, araç türlerini barındıran özel bir veri seti üzerinde YOLO mimarisi eğitildi, elde edilen model test görüntüleri üzerinde çıkarım yapmak için kullanıldı ve tespit sonuçları normalize edilmiş bir PostgreSQL veritabanına aktarılarak komut satırı üzerinden raporlandı.
 
