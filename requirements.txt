@@ -1,0 +1,5 @@
+ultralytics>=8.0.0
+pyyaml
+psycopg2-binary
+matplotlib
+Pillow

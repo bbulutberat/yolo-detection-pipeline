@@ -1,0 +1,20 @@
+# Güvenlik (Bunu asla GitHub'a yükleme!)
+.env
+
+# Python Önbellek Dosyaları
+__pycache__/
+*.pyc
+
+# Büyük Veri ve Çıktı Klasörleri
+dataset/
+runs/
+
+# YOLO Model Ağırlıkları (GitHub'ı şişirmemek için)
+*.pt
+*.pth
+*.weights
+
+# Sanal Ortam (Virtual Environment)
+venv/
+.venv/
+env/
